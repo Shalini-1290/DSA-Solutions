@@ -23,6 +23,7 @@ DSA-Solutions/
 | 0560 | Subarray Sum Equals K |
 | 0724 | Find Pivot Index |
 
+
 ---
 
 ## 📂 Hashing
@@ -30,12 +31,13 @@ DSA-Solutions/
 | Problem No. | Problem |
 |-------------|----------------------|
 | 0049 | Group Anagrams |
-
+| 0080 | Remove Duplicates From Sorted ArrayII |
 ---
 
 ## 📂 Sliding Window
-
-Problems will be added soon.
+| Problem No. | Problem |
+|-------------|----------------------|
+| 0003 | Longest Subarray without repeating characters |
 
 ---
 
