@@ -40,6 +40,12 @@ DSA-Solutions/
 | 0003 | Longest Subarray without repeating characters |
 
 ---
+## 📂Binary Search
+| Problem No. | Problem |
+|-------------|----------------------|
+| 0033 | Search in Rotated Sorted Array |
+
+---
 
 ## 🛠️ Language
 
