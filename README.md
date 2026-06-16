@@ -10,6 +10,8 @@ DSA-Solutions/
 ├── Arrays/
 ├── Hashing/
 ├── Sliding Window/
+├── Binary_Search/
+├── Sorting/
 └── README.md
 ```
 
@@ -44,6 +46,8 @@ DSA-Solutions/
 | Problem No. | Problem |
 |-------------|----------------------|
 | 0033 | Search in Rotated Sorted Array |
+| 0034 | find first and last position of element in rotated sorted array |
+| 0153 | find minimum in rotated sorted array |
 
 ---
 
@@ -68,8 +72,10 @@ DSA-Solutions/
 | Arrays | 3 |
 | Hashing | 1 |
 | Sliding Window | 1 |
+| Sorting | 2 |
+| Binary_Search| 3 |
 
-**Total Problems:** 4
+**Total Problems:** 10
 
 ---
 
@@ -80,6 +86,7 @@ DSA-Solutions/
 - Hash Map
 - Sorting
 - String Manipulation
+- Binary Search 
 
 ---
 
