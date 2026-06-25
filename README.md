@@ -34,6 +34,7 @@ DSA-Solutions/
 |-------------|----------------------|
 | 0049 | Group Anagrams |
 | 0080 | Remove Duplicates From Sorted ArrayII |
+|  599 | Minimum index of two list |
 ---
 
 ## 📂 Sliding Window
@@ -70,12 +71,12 @@ DSA-Solutions/
 | Category | Solved |
 |-----------|---------|
 | Arrays | 3 |
-| Hashing | 1 |
+| Hashing | 3 |
 | Sliding Window | 1 |
 | Sorting | 2 |
 | Binary_Search| 3 |
 
-**Total Problems:** 10
+**Total Problems:** 12
 
 ---
 
